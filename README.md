@@ -8,6 +8,10 @@ specific LLM.
 
 This is a work in progress - check back regularly for updates
 
+** First run Ollama locally with your LLM - mistral, codellama, etc
+ollama run (llm)
+
+** Then run the python main script:
 RUN main8v2.py to run
 
 Requirements are as follows:
